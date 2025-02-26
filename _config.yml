@@ -5,7 +5,7 @@ keywords: null
 author: John Doe
 language: en
 timezone: ''
-url: https://junAjax.github.io/TestHexo
+url: https://junajax.github.io/TestHexo
 root: /TestHexo/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
