@@ -105,7 +105,7 @@ head:
 navbar:
     # Navigation menu items
     menu:
-        Home: /
+        zhuye: /
         Archives: /archives
         Categories: /categories
         Tags: /tags
