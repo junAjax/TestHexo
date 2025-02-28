@@ -1,13 +1,13 @@
-title: 喝茶
-subtitle: 品茶
-description: 广佛喝茶品茶
-keywords: null
-author: WangY
-language: en
+title: 安知鱼
+subtitle: 生活明朗，万物可带
+description: 广佛喝茶品茶,-安知鱼
+keywords: 广佛喝茶品茶,喝茶,98
+author: 安知鱼
+language: zh-CN
 timezone: ''
 url: https://junajax.github.io/TestHexo
 root: /TestHexo/
-permalink: ':year/:month/:day/:title/'
+permalink: posts/:abbrlink.html
 permalink_defaults: null
 pretty_urls:
   trailing_index: true
@@ -64,3 +64,12 @@ deploy:
   type: git
   repo: https://github.com/junAjax/TestHexo.git
   branch: gh-pages
+
+abbrlink:
+  alg: crc32
+  rep: hex
+
+search:
+  path: search.xml
+  field: all
+  content: true
