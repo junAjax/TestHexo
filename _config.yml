@@ -65,11 +65,11 @@ deploy:
   repo: https://github.com/junAjax/TestHexo.git
   branch: gh-pages
 
-abbrlink:
-  alg: crc32
-  rep: hex
-
-search:
-  path: search.xml
-  field: all
-  content: true
+#abbrlink:
+#  alg: crc32
+#  rep: hex
+#
+#search:
+#  path: search.xml
+#  field: all
+#  content: true
