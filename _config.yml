@@ -7,7 +7,7 @@ language: zh-CN
 timezone: ''
 url: https://junajax.github.io/TestHexo
 root: /TestHexo/
-permalink: posts/:abbrlink.html
+permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
   trailing_index: true
